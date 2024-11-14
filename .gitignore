@@ -1,0 +1,10 @@
+#сypress artifacts
+screenshots/
+videos/
+downloads/
+
+# dependencies
+node_modules/
+
+# Visual Studio Code cache/options directory
+.vscode/
